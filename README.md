@@ -15,11 +15,8 @@ The hydrodynamic simulations and the maps were produced in HEC-RAS and ArcGIS Pr
 ├── LICENSE
 ├── CITATION.cff
 ├── requirements.txt
-├── data/
-│   └── README.md          input files expected by the notebooks and their sources
 ├── notebooks/             the nine notebooks, run in numerical order
-└── results/
-    └── README.md          layout of the output folders
+
 ```
 
 ## Workflow
