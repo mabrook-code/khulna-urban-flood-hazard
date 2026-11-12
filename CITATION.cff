@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+type: software
+title: "Code for: climate-adjusted urban flood hazard and exposure in Khulna City, Bangladesh"
+version: 1.0.0
+date-released: 2026-11-12        # update to the date of the release
+license: MIT
+authors:
+  - given-names: "Mabrook"
+    affiliation: "Department of Urban and Regional Planning, Khulna University of Engineering & Technology"
+  # add the co-authors of the article here
+# repository-code: "https://github.com/<user>/khulna-urban-flood-hazard"
+# doi: "10.5281/zenodo.<record>"
