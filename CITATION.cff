@@ -3,14 +3,15 @@ message: "If you use this code, please cite the article and this repository."
 type: software
 title: "Code for: Urban Pluvial Flood Hazard and Exposure under CMIP6-Adjusted Design Storms in Khulna, Bangladesh"
 version: 1.0.0
-date-released: 2026-11-26
+date-released: "2026-11-26"
 license: MIT
 repository-code: "https://github.com/mabrook-code/khulna-urban-flood-hazard"
 authors:
   - family-names: "Mabrook"
     affiliation: "Department of Urban and Regional Planning, Khulna University of Engineering & Technology, Khulna, Bangladesh"
+    orcid: "https://orcid.org/0009-0003-2378-2762"
   - family-names: "Sarkar"
     given-names: "Showmitra Kumar"
     affiliation: "Department of Urban and Regional Planning, Khulna University of Engineering & Technology, Khulna, Bangladesh"
-            doi: "https://doi.org/10.5281/zenodo.24561719"
-
+    orcid: "https://orcid.org/0000-0001-5928-7577"
+    doi: "https://doi.org/10.5281/zenodo.24561719"
