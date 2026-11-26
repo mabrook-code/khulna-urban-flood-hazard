@@ -87,7 +87,7 @@ The code is released under the MIT Licence (see `LICENSE`).
  
 If you use this code, please cite the article above and the archived release of this repository:
  
-> Mabrook, Sarkar SK (2026) Code for: Urban Pluvial Flood Hazard and Exposure under CMIP6-Adjusted Design Storms in Khulna, Bangladesh (version 1.0.0). Zenodo. 
+> Mabrook, Sarkar SK (2026) Code for: Urban Pluvial Flood Hazard and Exposure under CMIP6-Adjusted Design Storms in Khulna, Bangladesh (version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24561719
  
 ## Contact
  
