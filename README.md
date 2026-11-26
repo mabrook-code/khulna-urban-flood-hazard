@@ -77,7 +77,7 @@ Notebook 07 holds the depth, velocity and momentum arrays of all 20 cases in mem
 - The ensemble-mean annual maxima are rounded to 0.01 mm before the GEV fit in notebook 03, and design depths are rounded to 0.1 mm before they are passed to notebooks 04 and 05.
 ## Data availability
  
-The input data are not distributed with this repository. The gauge record belongs to the Bangladesh Water Development Board, and the terrain, drainage, building and road layers to the Khulna City Corporation and the Khulna Development Authority; these can be requested from the providers. The bias-corrected CMIP6 projections are described by Mishra et al. (2020, https://doi.org/10.1038/s41597-020-00681-1). The maximum depth and velocity rasters of the 20 simulations, with waterbodies masked, are available at https://doi.org/[ZENODO DATASET DOI].
+The input data are not distributed with this repository. The gauge record belongs to the Bangladesh Water Development Board, and the terrain, drainage, building and road layers to the Khulna City Corporation and the Khulna Development Authority; these can be requested from the providers. The bias-corrected CMIP6 projections are described by Mishra et al. (2020, https://doi.org/10.1038/s41597-020-00681-1). The maximum depth and velocity rasters of the 20 simulations, with UFHI rasters are available at https://doi.org/10.5281/zenodo.24246162
  
 ## Licence
  
@@ -87,7 +87,7 @@ The code is released under the MIT Licence (see `LICENSE`).
  
 If you use this code, please cite the article above and the archived release of this repository:
  
-> Mabrook, Sarkar SK (2026) Code for: Urban Pluvial Flood Hazard and Exposure under CMIP6-Adjusted Design Storms in Khulna, Bangladesh (version 1.0.0). Zenodo. https://doi.org/[ZENODO CODE DOI]
+> Mabrook, Sarkar SK (2026) Code for: Urban Pluvial Flood Hazard and Exposure under CMIP6-Adjusted Design Storms in Khulna, Bangladesh (version 1.0.0). Zenodo. 
  
 ## Contact
  
